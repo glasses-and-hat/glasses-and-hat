@@ -1,4 +1,4 @@
-# Hi, I'm Rahul Nagendra 👋
+# Hi, I'm Rahul Yellapragada 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Senior+Software+Engineer;Distributed+Systems+Engineer;Backend;Platform+Engineering;Building+Developer+Tools;Always+Learning)](https://git.io/typing-svg)
 
@@ -14,18 +14,14 @@ I've built authentication platforms, enterprise integrations, event-driven syste
 
 I enjoy designing systems that are simple, scalable, and easy for other engineers to build on.
 
-
-
 ## 🚀 Featured Projects
 
-| Project                    | Description                                                                      |
-| -------------------------- | -------------------------------------------------------------------------------- |
-| CI/CD Platform             | Automated cloud infrastructure provisioning with GitHub Actions and Terraform    |
-| Playwright Framework       | Modular end-to-end testing platform with reusable libraries and Allure reporting |
-| Distributed Event Platform | Event-driven microservices using Kafka, Avro, and MongoDB                        |
-| LeetCode Solutions         | Clean Java implementations with explanations and complexity analysis             |
-
-
+| Project | Description |
+| --- | --- |
+| CI/CD Platform *(Hyatt, internal)* | Automated cloud infrastructure provisioning with GitHub Actions and Terraform |
+| Playwright Framework *(Hyatt, internal)* | Modular end-to-end testing platform with reusable libraries and Allure reporting |
+| Distributed Event Platform *(Hyatt, internal)* | Event-driven microservices using Kafka, Avro, and MongoDB |
+| [Algo Sandbox](https://github.com/glasses-and-hat/algo-sandbox) | NeetCode.io problem submissions with explanations and complexity analysis |
 
 ## 💡 Engineering Interests
 
@@ -36,7 +32,6 @@ I enjoy designing systems that are simple, scalable, and easy for other engineer
 - System Design
 - AI for Software Engineering
 - Cloud Infrastructure
-
 
 ## 🛠️ Tech Stack
 
@@ -66,68 +61,44 @@ I enjoy designing systems that are simple, scalable, and easy for other engineer
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-%23F44336.svg?style=for-the-badge&logo=allure&logoColor=white)
 
-
-
 ## 🌱 Currently Exploring
 
-- Building Internal Developer Platforms
-- AI-assisted Engineering Workflows
-- Advanced Distributed Systems
 - Engineering Leadership
-
-
+- AI-assisted Engineering Workflows
+- Internal Developer Platforms
 
 ## 🚧 What I'm Building
 
-- AI-assisted Job Search Platform
+- [AI-assisted Job Search Platform](https://github.com/glasses-and-hat/jdass) — local LLM-powered job discovery and application system
 - AWS + Terraform CI/CD Platform
 - System Design Notes
 - Java Interview Preparation Repository
 
-
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=glasses-and-hat&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glasses-and-hat&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=glasses-and-hat&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&sideNums=ffffff&currStreakNum=ffffff&dates=64748b&border=0f172a&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=glasses-and-hat&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-
-
 ## 🏆 Highlights
 
 - ✅ 10+ years building backend platforms
-
 - ☁️ Designed CI/CD infrastructure running 1M+ automated tests nightly
-
 - 🔐 Built authentication systems supporting Passkeys and Magic Links
-
 - 🚀 Led adoption of LaunchDarkly standards across multiple engineering teams
-
 - 📈 Reduced developer onboarding time by 60%
-
 - 🎓 MS Computer Science
-
-
 
 ## 🎯 What I Care About
 
-- Building reliable distributed systems
-- Improving developer experience
-- Designing simple, maintainable architectures
-- Automating repetitive engineering work
-- Mentoring and helping teams grow
-
-
+- Simplicity over cleverness in system design
+- Reliability as a first-class feature, not an afterthought
+- Automating toil so engineers can focus on real problems
+- Mentoring and growing the teams I work with
 
 ## 📫 Connect with Me
 
@@ -136,16 +107,11 @@ I enjoy designing systems that are simple, scalable, and easy for other engineer
   <a href="mailto:Yellapragada.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-
-
 ## ⚡ Fun Facts
 
-- 🧩 Love building tools that make developers more efficient  
-- 🧠 Can debug a distributed system faster than I can decide where to order lunch  
+- 🧩 Love building tools that make developers more efficient
+- 🧠 Can debug a distributed system faster than I can decide where to order lunch
 - 🌎 Believe in **mentorship, collaboration, and continuous learning**
 
 ---
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
-
-
-
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
