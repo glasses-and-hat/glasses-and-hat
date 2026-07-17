@@ -4,8 +4,6 @@
 
 Building scalable backend systems, developer platforms, and automation that help engineering teams move faster.
 
-![Visitors](https://komarev.com/ghpvc/?username=glasses-and-hat)
-
 ## 👨‍💻 About Me
 
 I'm a Senior Software Engineer with 10+ years of experience building backend platforms, distributed systems, and internal developer tooling.
@@ -77,7 +75,7 @@ I enjoy designing systems that are simple, scalable, and easy for other engineer
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=glasses-and-hat&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&sideNums=ffffff&currStreakNum=ffffff&dates=64748b&border=0f172a&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://ghchart.rshah.org/glasses-and-hat" alt="GitHub Contribution Heatmap" />
 </p>
 
 <p align="center">
@@ -115,3 +113,5 @@ I enjoy designing systems that are simple, scalable, and easy for other engineer
 
 ---
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
+
+![Visitors](https://komarev.com/ghpvc/?username=glasses-and-hat)
